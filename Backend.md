@@ -1,7 +1,7 @@
 ➤ Node.js & Express Basics
 1. Node.js single-threaded kaise hai aur phir asynchronous code kaise handle karta hai?
 
-Answer:
+Answer: 
 ✔ Node.js main single thread use karta hai (event loop)
 ✔ Heavy I/O operations ko non-blocking async way mein handle karta hai
 ✔ Callbacks, Promises aur async/await event loop ke saath integrate hote hain
